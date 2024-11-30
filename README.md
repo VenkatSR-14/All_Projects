@@ -15,17 +15,29 @@ Welcome to my repository! Here, you'll find an extensive collection of projects 
 
 ## **Software Development Projects**
 
-### 1. **Reddit Data Engineering**
+### 1. **CodeQuest**
+   - A platform inspired by LeetCode to help developers practice coding challenges and enhance their problem-solving skills.
+   - **Features**: User accounts, dynamic coding challenges, and real-time feedback on solutions.
+   - **Tech Stack**: Node.js, PostgreSQL, React, TailwindCSS.
+   - **Focus**: Creating a user-friendly interface for competitive programming enthusiasts.
+
+### 2. **CodeSage**
+   - My personal LLM (Large Language Model) project! Think of it as a helpful AI-powered coding buddy for generating insights, summaries, and assistance for various tasks.
+   - **Features**: AI-assisted code suggestions, summaries, and interactive learning tools.
+   - **Tech Stack**: Python, Transformers (Hugging Face), Flask.
+   - **Focus**: Building an intelligent assistant for developers and learners.
+
+### 3. **Reddit Data Engineering**
    - A data engineering pipeline that extracts, transforms, and visualizes Reddit data using advanced analytics.
    - **Tech Stack**: Python, Pandas, Visualization Libraries.
    - **Focus**: Real-time data aggregation and analytics.
 
-### 2. **Well-being App**
+### 4. **Well-being App**
    - A comprehensive application to track and improve mental and physical well-being.
    - **Features**: User authentication, data tracking, and visualization.
    - **Tech Stack**: React, Node.js, MongoDB.
 
-### 3. **Song Generator App**
+### 5. **Song Generator App**
    - A creative app that generates new song lyrics using Natural Language Processing.
    - **Tech Stack**: Flask, TensorFlow, Pretrained Models.
 
