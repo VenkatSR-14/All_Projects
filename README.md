@@ -18,14 +18,14 @@ Welcome to my repository! Here, you'll find an extensive collection of projects 
 ### 1. **CodeQuest**
    - A platform inspired by LeetCode to help developers practice coding challenges and enhance their problem-solving skills.
    - **Features**: User accounts, dynamic coding challenges, and real-time feedback on solutions.
-   - **Tech Stack**: Node.js, PostgreSQL, React, TailwindCSS.
+   - **Tech Stack**: Java, PostgreSQL, React, TailwindCSS.
    - **Focus**: Creating a user-friendly interface for competitive programming enthusiasts.
 
 ### 2. **CodeSage**
-   - My personal LLM (Large Language Model) project! Think of it as a helpful AI-powered coding buddy for generating insights, summaries, and assistance for various tasks.
-   - **Features**: AI-assisted code suggestions, summaries, and interactive learning tools.
-   - **Tech Stack**: Python, Transformers (Hugging Face), Flask.
-   - **Focus**: Building an intelligent assistant for developers and learners.
+   - My personal LLM (Large Language Model) project! Think of it as an advanced AI-powered assistant for generating insights, summaries, and assisting with coding tasks.
+   - **Features**: AI-assisted code suggestions, document summarization, and interactive learning tools.
+   - **Tech Stack**: Python, FastAPI, LLMs with advanced quantization and optimization techniques.
+   - **Focus**: Efficient, scalable, and intelligent solutions using cutting-edge AI technologies.
 
 ### 3. **Reddit Data Engineering**
    - A data engineering pipeline that extracts, transforms, and visualizes Reddit data using advanced analytics.
